@@ -1048,7 +1048,7 @@ let message = "You cannot charge the flux " +
 
 ## Organization and Bundle Identifier
 
-Where an Xcode project is involved, the organization should be set to `Ray Wenderlich` and the Bundle Identifier set to `com.raywenderlich.TutorialName` where `TutorialName` is the name of the tutorial project.
+Where an Xcode project is involved, the organization should be set to `Deputec Pty Ltd` and the Bundle Identifier set to `com.deputy.ProjectName` where `ProjectName` is the name of the project.
 
 ![Xcode Project settings](screens/project_settings.png)
 
