@@ -308,7 +308,7 @@ else {
 
 * There should be exactly one blank line between methods to aid in visual clarity and organization. Whitespace within methods should separate functionality, but having too many sections in a method often means you should refactor into several methods.
 
-* There should be no blank lines after an opening brace or before a closing brace.
+* There should be one blank line after an opening brace and none before a closing brace.
 
 * Colons always have no space on the left and one space on the right. Exceptions are the ternary operator `? :`, empty dictionary `[:]` and `#selector` syntax `addTarget(_:action:)`.
 
